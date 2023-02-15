@@ -9,3 +9,4 @@
 
 export { default as iframe } from './functions/iframe'
 export { default as import } from './functions/import'
+export { default as logoInfo } from './functions/bank-info'
