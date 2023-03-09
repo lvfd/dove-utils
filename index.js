@@ -10,3 +10,5 @@
 export { default as iframe } from './functions/iframe'
 export { default as import } from './functions/import'
 export { default as logoInfo } from './functions/bank-info'
+export { default as dominit } from './functions/dominit'
+export { default as convert } from './functions/convert'
